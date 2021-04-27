@@ -1,2 +1,2 @@
 # SmartMed-Dispenser
-Dispozitiv pentru asigurarea medicamentației la intervale precise.
+Dispozitiv inteligent programabil pentru organizarea și dozarea medicației zilnice a persoanelor în vârstă
