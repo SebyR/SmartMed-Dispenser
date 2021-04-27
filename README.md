@@ -1,2 +1,2 @@
 # SmartMed-Dispenser
-Dispozitiv pentru asigurarea medicamentatiei la intervale precise
+Dispozitiv pentru asigurarea medicamentației la intervale precise.
